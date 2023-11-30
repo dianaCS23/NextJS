@@ -30,7 +30,9 @@
 
 
 
-    "seed": "node -r dotenv/config ./scripts/seed.js"
+    "seed": "node -r dotenv/config ./scripts/seed.js",
+
+    "lint": "next lint"
 
 
 
