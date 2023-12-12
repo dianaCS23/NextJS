@@ -12,7 +12,7 @@ export default function Footer () {
             
             <div className="px-5 py-2">
                 <a href="/dashboard/invoices/contact" className="text-base leading-6 text-gray-500 hover:text-gray-900">
-                    Contact
+                    Contacta a Soporte
                 </a>
             </div>
             <div className="px-5 py-2">
